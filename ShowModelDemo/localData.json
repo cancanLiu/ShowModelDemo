@@ -1,0 +1,43 @@
+{
+    "datajson": "",
+    "headers": {
+        "module_id": "1",
+        "module_name": "标题"
+    },
+    "foot": {
+        "module_id": "1",
+        "isShow": "1",
+        "itemList": [
+                     {
+                     "item_name": "首页",
+                     "item_icon": ""
+                     },
+                     {
+                     "item_name": "商品",
+                     "item_icon": ""
+                     },
+                     {
+                     "module_id": "1",
+                     "item_name": "我的",
+                     "item_icon": ""
+                     }
+                    ]
+    },
+    "moduleList": [
+                   {
+                   "module_id": "1",
+                   "module_name": "广告",
+                   "module_url": "AdData"
+                   },
+                   {
+                   "module_id": "1",
+                   "module_name": "快捷键",
+                   "module_url": "QuickKeyData"
+                   },
+                   {
+                   "module_id": "1",
+                   "module_name": "商品列表",
+                   "module_url": "goodsData"
+                   }
+                   ]
+}

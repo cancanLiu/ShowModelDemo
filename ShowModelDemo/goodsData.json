@@ -1,0 +1,50 @@
+[
+                    {
+                    "product_id": "1",
+                    "product_name": "手机",
+                    "product_pic": "",
+                    "product_info": "iPhone7",
+                    "product_price": "",
+                    "product_url": ""
+                    },
+                    {
+                    "product_id": "1",
+                    "product_name": "电脑",
+                    "product_info": "MacBook",
+                    "product_pic": "",
+                    "product_price": "",
+                    "product_url": ""
+                    },
+                    {
+                    "product_id": "1",
+                    "product_name": "冰箱",
+                    "product_info": "Haier",
+                    "product_pic": "",
+                    "product_price": "",
+                    "product_url": ""
+                    },
+                    {
+                    "product_id": "1",
+                    "product_name": "空调",
+                    "product_info": "格力造",
+                    "product_pic": "",
+                    "product_price": "",
+                    "product_url": ""
+                    },
+                    {
+                    "product_id": "1",
+                    "product_name": "洗衣机",
+                    "product_info": "小鸭双桶",
+                    "product_pic": "",
+                    "product_price": "",
+                    "product_url": ""
+                    },
+                    {
+                    "product_id": "1",
+                    "product_name": "汽车",
+                    "product_info": "一汽大众",
+                    "product_pic": "",
+                    "product_price": "",
+                    "product_url": ""
+                    }
+]
